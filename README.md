@@ -3,7 +3,8 @@
 ## Usage
 
 1. After cloning the project, enter the `npm i`.
-2. Search for keyword 'TODOS' with IDE's Find and add `.env` file to `.gitignore`.
+2. Add an `.env` file and define the mongoDB constant.
+3. Search for keyword 'TODOS' with IDE's Find and set up projects to suit your taste.
 
 ## Version
 
